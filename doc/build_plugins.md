@@ -4,7 +4,7 @@
 
 You should have installed `docker` in your environment.
 
-## Write yout code
+## Write your code
 
 Please write your plugin code in `${YIG_DIR}/plugins/`
 
